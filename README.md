@@ -6,7 +6,7 @@ Welcome to my little corner of the GitHub universe 🌌
 ## 👩‍💻 Who am I?
 - 🎓 A B.Tech CSE student trying to make sense of the tech chaos.
 - 🧠 Obsessed with **AI/ML**, **Data Analytics**, and making dashboards that actually make sense (looking at you, Excel).
-- 🧮 Have a soft spot for **Statistics and Probability** — because life makes more sense with distributions and Bayes' Theorem.
+- 🧮 Have a soft spot for Statistics and Probability — because few things in life are as satisfying as a well-behaved distribution (at least they come with formulas when life doesn't).
 - 💡 I believe Python solves (almost) everything, Java builds empires, and C++... well, C++ keeps me humble.
 - 📈 Juggling ML, stats, Netflix, and placements like it’s a survival game.
 
